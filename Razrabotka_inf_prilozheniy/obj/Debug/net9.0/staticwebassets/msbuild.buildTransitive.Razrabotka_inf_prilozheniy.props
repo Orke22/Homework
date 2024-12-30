@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Razrabotka_inf_prilozheniy.props" />
+</Project>

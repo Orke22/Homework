@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Razrabotka_inf_prilozheniy/1.0.0": {
+        "runtime": {
+          "Razrabotka_inf_prilozheniy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Razrabotka_inf_prilozheniy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
