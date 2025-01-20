@@ -1,26 +1,3 @@
-//Перечень заданий
-System.Console.WriteLine("    ПЕРЕЧЕНЬ ЗАДАНИЙ:");
-System.Console.WriteLine("    -----------------");
-System.Console.WriteLine(" Домашнее задание 1");
-System.Console.WriteLine(" 1. Задача 1");
-System.Console.WriteLine(" 2. Задача 2");
-System.Console.WriteLine(" 3. Задача 3");
-System.Console.WriteLine(" 4. Задача 4");
-System.Console.WriteLine(" 5. Задача 5");
-System.Console.WriteLine(" 6. Задача 6");
-System.Console.WriteLine(" 7. Задача 7");
-System.Console.WriteLine(" 8. Задача 8");
-System.Console.WriteLine(" Домашнее задание 2");
-System.Console.WriteLine(" 9. Задача 1");
-System.Console.WriteLine("10. Задача 2");
-System.Console.WriteLine("11. Задача 3");
-System.Console.WriteLine("12. Задача 4");
-System.Console.WriteLine(" Домашнее задание 3");
-System.Console.WriteLine("13. Задача");
-System.Console.WriteLine("    -----------------");
-System.Console.WriteLine("Выберите номер практического задания:");
-int zad = Convert.ToInt32(Console.ReadLine());
-
 //1. Задача 1
 //Напишите программу, которая на вход принимает два числа и выдает, какое число большее, а какое меньшее.
 if (zad == 1)
